@@ -1,8 +1,8 @@
 Captura 1:
-![](Captura1.png)
+![](Taller.Git.Ramas/Taller.Git.Ramas/Capturas/Captura1.png)
 
 Captura 2:
-![](Captura2.png)
+![](Taller.Git.Ramas/Taller.Git.Ramas/Capturas/Captura2.png)
 
 Captura 3:
-![](Captura3.png)
+![](Taller.Git.Ramas/Taller.Git.Ramas/Capturas/Captura3.png)
