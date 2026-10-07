@@ -1,8 +1,9 @@
 Captura 1:
-![](Taller.Git.Ramas/Taller.Git.Ramas/Capturas/Captura1.png)
+![](Taller%20Git%20Ramas/Taller%20Git%20Ramas/Capturas/Captura1.png)
 
 Captura 2:
-![](Taller.Git.Ramas/Taller.Git.Ramas/Capturas/Captura2.png)
+![](Taller%20Git%20Ramas/Taller%20Git%20Ramas/Capturas/Captura2.png)
 
 Captura 3:
-![](Taller.Git.Ramas/Taller.Git.Ramas/Capturas/Captura3.png)
+
+![](Taller%20Git%20Ramas/Taller%20Git%20Ramas/Capturas/Captura3.png)
